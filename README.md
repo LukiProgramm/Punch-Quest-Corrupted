@@ -1235,7 +1235,7 @@ func die():
 
 Esse é o fim para os exploradores do código do **Punch Quest**! Este README foi elaborado para facilitar o entendimento dos scripts e da estrutura do projeto. Caso tenha dúvidas ou sugestões, sinta-se à vontade para contribuir ou abrir uma issue no repositório. 
 
-👉 **[Clique aqui para baixar o jogo](https://www.dropbox.com/scl/fi/68s3et88llcmjg0of7zlf/Punch-Quest.rar?rlkey=1a7ujqvuc8c6onpb8yuua2hrw&e=1&st=g71c3ey3&dl=0)** 
-👉**[Clique aqui para ver o vídeo do jogo](https://www.youtube.com/watch?v=mkEHUfyXcak)** 
-👉**[Clique aqui para ver o segundo vídeo do jogo](https://youtu.be/paCLy_-e5CU)** 
+👉 **[Clique aqui para baixar o jogo](https://www.dropbox.com/scl/fi/68s3et88llcmjg0of7zlf/Punch-Quest.rar?rlkey=1a7ujqvuc8c6onpb8yuua2hrw&e=1&st=g71c3ey3&dl=0) 
+👉[Clique aqui para ver o vídeo do jogo](https://www.youtube.com/watch?v=mkEHUfyXcak) 
+👉[Clique aqui para ver o segundo vídeo do jogo](https://youtu.be/paCLy_-e5CU)** 
 
